@@ -9,4 +9,8 @@ void print_remaining_days(int month, int day, int year);
 int convert_day(int month, int day);
 
 #endif /* MAIN_H */
+<<<<<<< HEAD
 
+=======
+/
+>>>>>>> e1b1684f3b10630f4a814f54fd2e00dc253ca878
